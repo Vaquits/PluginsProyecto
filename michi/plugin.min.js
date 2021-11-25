@@ -1,0 +1,1 @@
+!function(){"use strict";function t(t,i){t.ui.registry.addButton("primer-plugin",{text:"primer-plugin button",onAction:function(){tinymce.get("editor").setContent("<p>Michi</p>")}})}tinymce.PluginManager.add("primer-plugin",t)}();
